@@ -1,0 +1,6 @@
+{
+  "name": "Mi Cocina Rotisería - Delivery y Menú Online",
+  "description": "Sitio web oficial de Mi Cocina Rotisería. Mirá el menú diario, promociones de pizzas, lomos y empanadas, y hacé tu pedido por WhatsApp con delivery a domicilio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
